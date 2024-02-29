@@ -3,12 +3,12 @@ console.log('Hello World!');
 
 
 const greetings = ['Hello human', 'Hello person', 'Hello world', 'Hello alien'];
-console.log(greetings[2]);
+  console.log(greetings[2]);
 
 
 
 const hello = 'Hello World!';
-console.log(hello);
+  console.log(hello);
 
 
 
